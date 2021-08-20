@@ -44,6 +44,10 @@ $hover: #ff0505;
                 }
             }
         }
+        .current {
+            color: $active;
+            font-size: 18px;
+        }
     }
     .img{
         width: 100%;

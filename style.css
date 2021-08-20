@@ -53,6 +53,11 @@
   transition: 0.5s ease-out;
 }
 
+* #navbar .current {
+  color: #dd6d6d;
+  font-size: 18px;
+}
+
 * .img {
   width: 100%;
   height: 600px;
